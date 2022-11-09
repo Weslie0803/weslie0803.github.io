@@ -9,7 +9,7 @@ Just a site for fun, for Weslie's inner world.
 Weslie: I don't know. Maybe he's a mirror in imaginary world. His body lies on the earth, with following information:
 
 - Student in Tsinghua University, Beijing, China
-- Major in Material Science, mibor in Computer Science
+- Major in Material Science, minor in Computer Science
 - Doesn't want to be defined
 
 ## Related sites
