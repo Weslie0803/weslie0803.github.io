@@ -16,7 +16,7 @@ Weslie: I don't know. Maybe he's a mirror in imaginary world. His body lies on t
 
 Here is his [blog][blog], some of his story.
 
-[learnTEM][learnTEM] study notes.
+[LearnTEM][learnTEM] study notes.
 
 
 [blog]: ./blogs
