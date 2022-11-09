@@ -20,4 +20,4 @@ Here is his [blog][blog], some of his story.
 
 
 [blog]: ./blogs
-[learnTEM]: ./learnTEM
+[learnTEM]: ./LearnTEM
